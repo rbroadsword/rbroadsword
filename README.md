@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/ryan-broadsword/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <a href="mailto:rbroadsword@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbroadsword)](https://github.com/rbroadsword/github-readme-stats&show_icons=true&theme=dracula)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbroadsword)](https://github.com/rbroadsword/github-readme-stats&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbroadsword&hide=TeX&layout=compact)
 <!--
