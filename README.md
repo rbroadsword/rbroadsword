@@ -1,4 +1,4 @@
-# <p align="center"> **Hello! I'm <span color="pink">Ryan Broadsword</span>** </p>
+# <p align="center"> **Hello! I'm <span style="color:hotpink" >Ryan Broadsword</span>** </p>
 
 ## <p align="center"> I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development. </p>
 
