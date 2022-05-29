@@ -25,6 +25,8 @@
 <a href="https://www.linkedin.com/in/ryan-broadsword/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <a href="mailto:rbroadsword@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
+(https://github-readme-stats.vercel.app/api?username=rbroadsword)](https://github.com/rbroadsword/github-readme-stats)
+
 <!--
 **rbroadsword/rbroadsword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
