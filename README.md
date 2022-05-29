@@ -1,5 +1,7 @@
 # <p align="center"> **Hello! I'm Ryan Broadsword** </p>
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 ## <p align="center"> I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development. </p>
 
 ## **Coding skills:**
