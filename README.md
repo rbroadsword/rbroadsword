@@ -27,7 +27,7 @@
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbroadsword&show_icons=true&theme=radical)](https://github.com/rbroadsword/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbroadsword&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbroadsword&show_icons=true&theme=radical&hide=TeX&layout=compact)
 <!--
 **rbroadsword/rbroadsword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
