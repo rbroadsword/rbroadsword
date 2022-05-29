@@ -25,9 +25,9 @@
 <a href="https://www.linkedin.com/in/ryan-broadsword/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <a href="mailto:rbroadsword@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbroadsword&show_icons=true&theme=radical)](https://github.com/rbroadsword/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbroadsword&show_icons=true&theme=dracula)](https://github.com/rbroadsword/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbroadsword&show_icons=true&theme=radical&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbroadsword&show_icons=true&theme=dracula&hide=TeX&layout=compact)
 <!--
 **rbroadsword/rbroadsword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
