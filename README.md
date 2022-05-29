@@ -2,7 +2,7 @@
 
 ## <p align="center"> I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development. </p>
 
-## **Coding skills:**
+## **Coding skills: :octopus:**
 
 <a><img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
@@ -20,7 +20,7 @@
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
 <a><img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
 
-## **Contact:**
+## **Contact: :leaves:**
 
 <a href="https://www.linkedin.com/in/ryan-broadsword/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <a href="mailto:rbroadsword@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
